@@ -1,0 +1,398 @@
+﻿  main.cpp
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(75): warning C4305: 'argumento': truncamento de 'double' para 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(148): warning C4305: 'argumento': truncamento de 'double' para 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(356): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(359): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(371): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(374): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(685): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(688): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(700): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(703): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(818): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(821): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(833): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(836): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(907): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(910): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(922): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(925): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(956): warning C4553: '==': o resultado da expressão não usado; você pretendia que fosse '='?
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1064): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1067): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1079): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1082): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1167): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1170): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1182): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1185): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1208): warning C4305: 'argumento': truncamento de 'double' para 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1269): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1272): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1284): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1287): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1310): warning C4305: 'argumento': truncamento de 'double' para 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1371): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1374): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1386): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1389): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1412): warning C4305: 'argumento': truncamento de 'double' para 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1473): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1476): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1488): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1491): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1514): warning C4305: 'argumento': truncamento de 'double' para 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1575): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1578): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1590): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1593): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1677): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1680): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1692): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1695): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1718): warning C4305: 'argumento': truncamento de 'double' para 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1778): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1781): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1793): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1796): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1819): warning C4305: 'argumento': truncamento de 'double' para 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1880): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1883): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1895): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1898): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1921): warning C4305: 'argumento': truncamento de 'double' para 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1982): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1985): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(1997): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(2000): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(2023): warning C4305: 'argumento': truncamento de 'double' para 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(2084): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(2087): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(2099): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(2102): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(2328): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(2331): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(2343): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(2346): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(2444): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(2447): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(2459): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+c:\users\leonardo rebello\desktop\sfml_test\sfml_test\main.cpp(2462): warning C4244: 'argumento': conversão de 'int' para 'T', possível perda de dados
+          with
+          [
+              T=float
+          ]
+  Gerando código
+  1 of 318 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  SFML_TEST.vcxproj -> C:\Users\Leonardo Rebello\Desktop\SFML_TEST\Release\SFML_TEST.exe
